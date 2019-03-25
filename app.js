@@ -1,3 +1,5 @@
 module.exports = x => {
-    return x;
+    body = JSON.parse(x);
+    text = body["any"]; 
+    return text;
 }
