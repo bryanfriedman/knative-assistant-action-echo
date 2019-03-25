@@ -1,0 +1,19 @@
+{
+  "name": "knative-assistant-action-echo",
+  "version": "1.0.0",
+  "description": "Knative Assistant Echo Action",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanfriedman/knative-assistant-action-echo.git"
+  },
+  "author": "Brian McClain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanfriedman/knative-assistant-action-echo/issues"
+  },
+  "homepage": "https://github.com/bryanfriedman/knative-assistant-action-echo#readme"
+}
