@@ -1,5 +1,3 @@
-module.exports = x => {
-    body = JSON.parse(x);
-    text = body["any"]; 
-    return text;
+module.exports = text => {
+    return text.any;
 }
